@@ -9,7 +9,7 @@ Length of the password
 
 The project helps to check whether a password is Weak, Fair, Good, Strong, or Very Strong, making it useful for learning about basic cybersecurity and password hygiene.
 
-## 🚀 How It Works 
+##  How It Works 
 
 The user inputs a password.
 
@@ -17,7 +17,7 @@ The script uses regex patterns to analyze different password criteria.
 
 A strength score is calculated, and a friendly emoji-based rating is displayed.
 
-## 🎯 Run
+##  Run
 python password_checker.py
 
 
@@ -30,7 +30,7 @@ Enter your password: Hello@123
 
 Password Strength: Strong 💪
 
-## 💡 Use Cases
+##  Use Cases
 
 Personal password security awareness
 
