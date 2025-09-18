@@ -32,8 +32,6 @@ Password Strength: Strong 💪
 
 ##  Use Cases
 
-Personal password security awareness
-
-Beginner-friendly Python & regex practice
-
-A base project for extending into GUI apps or web tools
+🔹Personal password security awareness
+🔹Beginner-friendly Python & regex practice
+🔹A base project for extending into GUI apps or web tools
